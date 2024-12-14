@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainColor">#faf3f0</color>
+    <color name="secondColor">#efe4de</color>
+    <color name="thirdColor">#AA9387</color>
+    <color name="myWhite">#FFFBF9</color>
+
+    <color name="boldTextColor">#272120</color>
+    <color name="normalTextColor">#595857</color>
+
+    <color name="my_green">#57ae57</color>
+    <color name="my_red">#ff6161</color>
+    <color name="my_blue">#487ca4</color>
+    <color name="my_orange">#f9b459</color>
+
+</resources>
