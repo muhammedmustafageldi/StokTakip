@@ -30,11 +30,19 @@
 ## Screenshots
 
 <p align="left">
-<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/StokTakip/StokTakip1.png" width="3000" height="1920"/>
-<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/StokTakip/StokTakip2.png" width="3000" height="1920"/>
-<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/StokTakip/StokTakip3.png" width="3000" height="1920"/>
-<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/StokTakip/StokTakip4.png" width="3000" height="1920"/>
-<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/StokTakip/StokTakip5.png" width="3000" height="1920"/>
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/StokTakip/StokTakip1.png" width="1000" height="auto"/>
+</p>
+<p align="left">
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/StokTakip/StokTakip2.png" width="1000" height="auto"/>
+</p>
+<p align="left">
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/StokTakip/StokTakip3.png" width="1000" height="auto"/>
+</p>
+<p align="left">
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/StokTakip/StokTakip4.png" width="1000" height="auto"/>
+</p>
+<p align="left">
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/StokTakip/StokTakip5.png" width="1000" height="auto"/>
 </p>
 
 ---
